@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 1280 340">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #0a121a;
+      }
+
+      .st1 {
+        stroke: #c97f1e;
+      }
+
+      .st1, .st2, .st3 {
+        fill: none;
+        stroke-miterlimit: 1.81;
+      }
+
+      .st1, .st3 {
+        stroke-linecap: round;
+        stroke-width: 16.31px;
+      }
+
+      .st2 {
+        stroke: #63798e;
+        stroke-width: 5.89px;
+      }
+
+      .st4, .st5, .st6, .st7, .st8 {
+        isolation: isolate;
+      }
+
+      .st4, .st6 {
+        font-size: 72px;
+        letter-spacing: .1em;
+      }
+
+      .st4, .st6, .st8 {
+        font-family: DejaVuSans, 'DejaVu Sans';
+      }
+
+      .st4, .st9 {
+        fill: #ffae35;
+      }
+
+      .st10 {
+        fill: #0f1a24;
+      }
+
+      .st6 {
+        fill: #f0e6d2;
+      }
+
+      .st7 {
+        opacity: .5;
+      }
+
+      .st7, .st8 {
+        fill: #63798e;
+      }
+
+      .st8 {
+        font-size: 27px;
+        letter-spacing: .11em;
+      }
+
+      .st3 {
+        stroke: #ffae35;
+      }
+    </style>
+  </defs>
+  <rect class="st10" width="1280" height="340"/>
+  <g>
+    <circle class="st2" cx="163.04" cy="129.2" r="15.4"/>
+    <circle class="st0" cx="163.04" cy="129.2" r="5.07"/>
+    <circle class="st2" cx="211.97" cy="129.2" r="15.4"/>
+    <circle class="st0" cx="211.97" cy="129.2" r="5.07"/>
+    <circle class="st2" cx="260.89" cy="129.2" r="15.4"/>
+    <circle class="st0" cx="260.89" cy="129.2" r="5.07"/>
+    <circle class="st2" cx="163.04" cy="210.74" r="15.4"/>
+    <circle class="st0" cx="163.04" cy="210.74" r="5.07"/>
+    <circle class="st2" cx="211.97" cy="210.74" r="15.4"/>
+    <circle class="st0" cx="211.97" cy="210.74" r="5.07"/>
+    <circle class="st2" cx="260.89" cy="210.74" r="15.4"/>
+    <circle class="st0" cx="260.89" cy="210.74" r="5.07"/>
+    <path class="st1" d="M163.04,132.37c4.53,67.95,26.27,114.16,97.85,81.54"/>
+    <path class="st3" d="M163.04,129.2c4.53,67.95,26.27,114.16,97.85,81.54"/>
+    <circle class="st9" cx="163.04" cy="129.2" r="20.39"/>
+    <circle class="st10" cx="163.04" cy="129.2" r="7.34"/>
+    <circle class="st9" cx="260.89" cy="210.74" r="20.39" transform="translate(11.08 434.5) rotate(-80.78)"/>
+    <circle class="st10" cx="260.89" cy="210.74" r="7.34"/>
+  </g>
+  <g class="st5">
+    <text class="st6" transform="translate(368 176)"><tspan x="0" y="0">PATCHBAY</tspan></text>
+  </g>
+  <g class="st5">
+    <g class="st5">
+      <text class="st4" transform="translate(825 176)"><tspan x="0" y="0">LABS</tspan></text>
+    </g>
+  </g>
+  <path class="st7" d="M372,212h696c1.1,0,2,.9,2,2h0c0,1.1-.9,2-2,2H372c-1.1,0-2-.9-2-2h0c0-1.1.9-2,2-2Z"/>
+  <g class="st5">
+    <text class="st8" transform="translate(370 258)"><tspan x="0" y="0">tools for the booth, the deck, and the desk</tspan></text>
+  </g>
+</svg>

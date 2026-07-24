@@ -1,0 +1,11 @@
+<svg viewBox="0 0 1280 340" xmlns="http://www.w3.org/2000/svg">
+<rect width="1280" height="340" fill="#0F1A24"/>
+<g transform="translate(96,54) scale(0.453)"><circle cx="148" cy="166" r="34" fill="none" stroke="#63798E" stroke-width="13"/><circle cx="148" cy="166" r="11.2" fill="#0A121A"/><circle cx="256" cy="166" r="34" fill="none" stroke="#63798E" stroke-width="13"/><circle cx="256" cy="166" r="11.2" fill="#0A121A"/><circle cx="364" cy="166" r="34" fill="none" stroke="#63798E" stroke-width="13"/><circle cx="364" cy="166" r="11.2" fill="#0A121A"/><circle cx="148" cy="346" r="34" fill="none" stroke="#63798E" stroke-width="13"/><circle cx="148" cy="346" r="11.2" fill="#0A121A"/><circle cx="256" cy="346" r="34" fill="none" stroke="#63798E" stroke-width="13"/><circle cx="256" cy="346" r="11.2" fill="#0A121A"/><circle cx="364" cy="346" r="34" fill="none" stroke="#63798E" stroke-width="13"/><circle cx="364" cy="346" r="11.2" fill="#0A121A"/><path d="M148 166 C 158 316 206 418 364 346" fill="none" stroke="#C97F1E" stroke-width="36" stroke-linecap="round" transform="translate(0,7)"/><path d="M148 166 C 158 316 206 418 364 346" fill="none" stroke="#FFAE35" stroke-width="36" stroke-linecap="round"/><circle cx="148" cy="166" r="45" fill="#FFAE35"/><circle cx="148" cy="166" r="16.2" fill="#0F1A24"/><circle cx="364" cy="346" r="45" fill="#FFAE35"/><circle cx="364" cy="346" r="16.2" fill="#0F1A24"/></g>
+<text x="368" y="176" font-family="DejaVu Sans Mono" font-weight="bold" font-size="72"
+      letter-spacing="7" fill="#F0E6D2">PATCHBAY</text>
+<text x="368" y="176" font-family="DejaVu Sans Mono" font-weight="bold" font-size="72"
+      letter-spacing="7" fill="#FFAE35"><tspan dx="430">LABS</tspan></text>
+<rect x="370" y="212" width="700" height="4" rx="2" fill="#63798E" opacity="0.5"/>
+<text x="370" y="258" font-family="DejaVu Sans Mono" font-size="27" letter-spacing="3"
+      fill="#63798E">tools for the booth, the deck, and the desk</text>
+</svg>
